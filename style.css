@@ -1,0 +1,24 @@
+.navbar .navbar-brand, .content .nama h4{
+    color: #ffde00;
+}
+
+.content .foto svg{
+    /* width: 700px; */
+}
+
+.content .foto img{
+    top: -120px;
+    position: absolute;
+    width: 500px;
+    left: 60%;
+    transform: translateX(-50%);
+    /* transform: rotate(2deg); */
+}
+
+.about .link a i{
+    color: #000000;
+}
+
+.about .link a:hover i{
+    color: #ffde00;
+}
